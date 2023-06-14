@@ -35,22 +35,6 @@
   "event_type": "2023 위치별",
   "created_date": "2023-06-14"
 }, {
-  "event_name": "click_button",
-  "event_type": "2023 같이해요",
-  "created_date": "2023-06-14"
-}, {
-  "event_name": "click_button",
-  "event_type": "2023 주문결제",
-  "created_date": "2023-06-14"
-}, {
-  "event_name": "click_button",
-  "event_type": "2023 주문결제 주문",
-  "created_date": "2023-06-14"
-}, {
-  "event_name": "click_button",
-  "event_type": "2023 유저 정보입력",
-  "created_date": "2023-06-14"
-}, {
   "event_name": "click_challenge_attend",
   "event_type": "2023 같이해요",
   "created_date": "2023-06-14"
@@ -95,10 +79,6 @@
   "event_type": "2023 액션별",
   "created_date": "2023-06-14"
 }, {
-  "event_name": "click_profile",
-  "event_type": "2023 삭제 필요",
-  "created_date": "2023-06-14"
-}, {
   "event_name": "click_purchase_cancel",
   "event_type": "2023 주문결제 주문",
   "created_date": "2023-06-14"
@@ -125,10 +105,6 @@
 }, {
   "event_name": "community_page_click",
   "event_type": "커뮤니티(사랑방)",
-  "created_date": "2023-06-14"
-}, {
-  "event_name": "community_page_click",
-  "event_type": "2023 액션별",
   "created_date": "2023-06-14"
 }, {
   "event_name": "community_page_view",
@@ -199,10 +175,6 @@
   "event_type": "직거래장터 탭",
   "created_date": "2023-06-14"
 }, {
-  "event_name": "direct_deal_page_click",
-  "event_type": "2023 액션별",
-  "created_date": "2023-06-14"
-}, {
   "event_name": "direct_deal_page_view",
   "event_type": "직거래장터 탭",
   "created_date": "2023-06-14"
@@ -267,16 +239,8 @@
   "event_type": "커뮤니티(사랑방)",
   "created_date": "2023-06-14"
 }, {
-  "event_name": "impression_post_community",
-  "event_type": "2023 액션별",
-  "created_date": "2023-06-14"
-}, {
   "event_name": "impression_post_direct_deal",
   "event_type": "직거래장터 탭",
-  "created_date": "2023-06-14"
-}, {
-  "event_name": "impression_post_direct_deal",
-  "event_type": "2023 액션별",
   "created_date": "2023-06-14"
 }, {
   "event_name": "impression_post_home",
