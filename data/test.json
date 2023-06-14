@@ -33,5 +33,420 @@
     "event_name": "click_market",
     "event_type": "auto sync",
     "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "notification_GNB_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "order_option_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_writeButton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_relevant",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "topgnb_home",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_challenge_posts",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_blockAuthor_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postShareButton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_challenge_attend",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_reportPost_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "go_to_post_button_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "sign_up",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_post_3dotButton_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_chatbutton",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "login_button",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postLikeButton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_blockReply_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "purchase_history_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "chatting_room_enter",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_order_checkout",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_share_profile",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_backButton_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "notification_list_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "sell_history_cancel_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "order_error_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_page_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_community",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "explore_search_history_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_commentLikeButton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "farm_agrimaterial_writebutton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_challenge_post_detail",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "farm_machine_writebutton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_add_neighbor",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_challenge_confirm",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "sell_history_detail_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_post_submit",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_page_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_callbutton",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "signup_by_telephone",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_write_selectcommunity_canjoin",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_search_post_input_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_exitWrite_exitButton_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "inflow_phone",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "purchase_history_detail_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "order_progress_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_neighbor",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_button",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "explore_search_post_result_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "sell_history_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "explore_search_post_input_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_complete_cancel",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "purchase_history_cancel_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_my_direct_deal",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "direct_deal_smsbutton",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_payment",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "inflow_phone_certify",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "order_sheet_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "inflow_name",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_market",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_order",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "popup_attend_duplicate_warning",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "sell_history_shipping_info_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_request_purchase_cancel",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "signup_by_kakaotalk",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "cancel_attend_challege_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "signup_by_apple_account",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_challenge_picture",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_home",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "logout",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_3dotButton_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "challenge_create_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_relatedpost_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "registration_complete",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "chatting_GNB_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "farm_produce_writebutton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_direct_deal",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_post_submit",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "impression_post_challenge",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "order_success_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_postDetail_reportReply_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "community_commentButton_click",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
   }
 ]
