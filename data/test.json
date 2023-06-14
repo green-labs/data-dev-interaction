@@ -23,5 +23,15 @@
     "event_name": "click_purchase_cancel",
     "event_type": "auto sync",
     "created_date": "2023-06-15"
+  },
+  {
+    "event_name": "click_profile",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
+  },
+  {
+    "event_name": "click_market",
+    "event_type": "auto sync",
+    "created_date": "2023-06-14"
   }
 ]
