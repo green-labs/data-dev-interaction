@@ -1,0 +1,9 @@
+[{
+  "event_name": "allmenu",
+  "event_type": "홈",
+  "created_date": "2023-06-14"
+}, {
+  "event_name": "bs_address_submitted",
+  "event_type": "보조금",
+  "created_date": "2023-06-14"
+}]
