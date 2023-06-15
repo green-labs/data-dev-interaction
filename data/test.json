@@ -413,40 +413,5 @@
     "event_name": "click_share_profile",
     "event_type": "auto sync",
     "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "click_add_neighbor",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "notification_GNB_click",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "explore_search_post_input_click",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "logout",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "community_postLikeButton_click",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "sell_history_page_view",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
-    "event_name": "community_postDetail_reportReply_Click",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
   }
 ]
