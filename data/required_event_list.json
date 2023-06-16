@@ -453,5 +453,10 @@
     "event_name": "click_challenge_text",
     "event_type": "auto sync",
     "created_date": "2023-06-15"
+  },
+  {
+    "event_name": "click_share_direct_deal_post",
+    "event_type": "auto sync",
+    "created_date": "2023-06-17"
   }
 ]
