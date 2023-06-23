@@ -458,5 +458,25 @@
     "event_name": "click_share_direct_deal_post",
     "event_type": "auto sync",
     "created_date": "2023-06-17"
+  },
+  {
+    "event_name": "popup_biz_cash_receipt",
+    "event_type": "auto sync",
+    "created_date": "2023-06-24"
+  },
+  {
+    "event_name": "click_purchase_history_inquiry",
+    "event_type": "auto sync",
+    "created_date": "2023-06-24"
+  },
+  {
+    "event_name": "click_refund_info",
+    "event_type": "auto sync",
+    "created_date": "2023-06-24"
+  },
+  {
+    "event_name": "click_banner",
+    "event_type": "auto sync",
+    "created_date": "2023-06-24"
   }
 ]
