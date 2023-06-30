@@ -478,5 +478,10 @@
     "event_name": "click_banner",
     "event_type": "auto sync",
     "created_date": "2023-06-24"
+  },
+  {
+    "event_name": "click_community_post_like",
+    "event_type": "auto sync",
+    "created_date": "2023-07-01"
   }
 ]
