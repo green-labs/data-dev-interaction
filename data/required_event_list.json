@@ -493,5 +493,15 @@
     "event_name": "click_filter",
     "event_type": "auto sync",
     "created_date": "2023-07-11"
+  },
+  {
+    "event_name": "click_community_post_share",
+    "event_type": "auto sync",
+    "created_date": "2023-07-12"
+  },
+  {
+    "event_name": "click_tab",
+    "event_type": "auto sync",
+    "created_date": "2023-07-12"
   }
 ]
