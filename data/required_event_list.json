@@ -460,11 +460,6 @@
     "created_date": "2023-06-17"
   },
   {
-    "event_name": "popup_biz_cash_receipt",
-    "event_type": "auto sync",
-    "created_date": "2023-06-24"
-  },
-  {
     "event_name": "click_purchase_history_inquiry",
     "event_type": "auto sync",
     "created_date": "2023-06-24"
