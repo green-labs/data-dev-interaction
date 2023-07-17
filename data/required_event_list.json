@@ -498,5 +498,55 @@
     "event_name": "click_tab",
     "event_type": "auto sync",
     "created_date": "2023-07-12"
+  },
+  {
+    "event_name": "impression_area_pesticide_ranking",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "popup_biz_cash_receipt",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "click_dropdown",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "select_dropdown",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "impression_review_pesticide",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "impression_post_pesticide",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "impression_feedback",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "click_feedback",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "click_pesticide_like",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "pesticide_page_click",
+    "event_type": "auto sync",
+    "created_date": "2023-07-18"
   }
 ]
