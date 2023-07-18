@@ -543,5 +543,15 @@
     "event_name": "pesticide_page_click",
     "event_type": "auto sync",
     "created_date": "2023-07-18"
+  },
+  {
+    "event_name": "click_input",
+    "event_type": "auto sync",
+    "created_date": "2023-07-19"
+  },
+  {
+    "event_name": "impression_alert",
+    "event_type": "auto sync",
+    "created_date": "2023-07-19"
   }
 ]
