@@ -505,11 +505,6 @@
     "created_date": "2023-07-18"
   },
   {
-    "event_name": "popup_biz_cash_receipt",
-    "event_type": "auto sync",
-    "created_date": "2023-07-18"
-  },
-  {
     "event_name": "click_dropdown",
     "event_type": "auto sync",
     "created_date": "2023-07-18"
