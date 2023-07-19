@@ -553,5 +553,35 @@
     "event_name": "impression_alert",
     "event_type": "auto sync",
     "created_date": "2023-07-19"
+  },
+  {
+    "event_name": "impression_widget_home",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "reload_home_feed",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "click_marketplace_post_comment",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "click_marketplace_post_purchase",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "click_marketplace_post_share",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "click_marketplace_post_like",
+    "event_type": "auto sync",
+    "created_date": "2023-07-20"
   }
 ]
