@@ -583,5 +583,10 @@
     "event_name": "click_marketplace_post_like",
     "event_type": "auto sync",
     "created_date": "2023-07-20"
+  },
+  {
+    "event_name": "click_community_post_comment",
+    "event_type": "auto sync",
+    "created_date": "2023-07-26"
   }
 ]
