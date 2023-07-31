@@ -598,5 +598,25 @@
     "event_name": "impression_auction_martket_price_detail",
     "event_type": "auto sync",
     "created_date": "2023-07-28"
+  },
+  {
+    "event_name": "impression_pesticide_product",
+    "event_type": "auto sync",
+    "created_date": "2023-08-01"
+  },
+  {
+    "event_name": "click_pesticide_product",
+    "event_type": "auto sync",
+    "created_date": "2023-08-01"
+  },
+  {
+    "event_name": "click_sorting",
+    "event_type": "auto sync",
+    "created_date": "2023-08-01"
+  },
+  {
+    "event_name": "click_search_pesticide_product",
+    "event_type": "auto sync",
+    "created_date": "2023-08-01"
   }
 ]
