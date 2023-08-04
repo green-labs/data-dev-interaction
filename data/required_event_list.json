@@ -618,5 +618,30 @@
     "event_name": "click_search_pesticide_product",
     "event_type": "auto sync",
     "created_date": "2023-08-01"
+  },
+  {
+    "event_name": "submit_add_cultivated_crops",
+    "event_type": "auto sync",
+    "created_date": "2023-08-05"
+  },
+  {
+    "event_name": "impression_cultivated_crops_add_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-08-05"
+  },
+  {
+    "event_name": "submit_modify_cultivated_crops",
+    "event_type": "auto sync",
+    "created_date": "2023-08-05"
+  },
+  {
+    "event_name": "submit_profile_edit",
+    "event_type": "auto sync",
+    "created_date": "2023-08-05"
+  },
+  {
+    "event_name": "search_cultivated_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-08-05"
   }
 ]
