@@ -643,5 +643,10 @@
     "event_name": "search_cultivated_crop",
     "event_type": "auto sync",
     "created_date": "2023-08-05"
+  },
+  {
+    "event_name": "fmn_dev_user_device_info",
+    "event_type": "auto sync",
+    "created_date": "2023-08-09"
   }
 ]
