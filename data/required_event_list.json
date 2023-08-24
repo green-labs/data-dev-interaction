@@ -658,5 +658,15 @@
     "event_name": "call_agricultural_machinery_rental",
     "event_type": "auto sync",
     "created_date": "2023-08-23"
+  },
+  {
+    "event_name": "impression_cultivation_nudge",
+    "event_type": "auto sync",
+    "created_date": "2023-08-25"
+  },
+  {
+    "event_name": "popup_check_attendance",
+    "event_type": "auto sync",
+    "created_date": "2023-08-25"
   }
 ]
