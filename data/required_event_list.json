@@ -663,5 +663,15 @@
     "event_name": "impression_cultivation_nudge",
     "event_type": "auto sync",
     "created_date": "2023-08-25"
+  },
+  {
+    "event_name": "impression_marketplace_nudge",
+    "event_type": "auto sync",
+    "created_date": "2023-08-29"
+  },
+  {
+    "event_name": "click_marketplace_nudge",
+    "event_type": "auto sync",
+    "created_date": "2023-08-29"
   }
 ]
