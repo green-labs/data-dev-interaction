@@ -673,5 +673,10 @@
     "event_name": "click_marketplace_nudge",
     "event_type": "auto sync",
     "created_date": "2023-08-29"
+  },
+  {
+    "event_name": "click_writing_pesticide_product_review",
+    "event_type": "auto sync",
+    "created_date": "2023-09-07"
   }
 ]
