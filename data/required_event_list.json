@@ -658,5 +658,25 @@
     "event_name": "click_writing_pesticide_product_review",
     "event_type": "auto sync",
     "created_date": "2023-09-07"
+  },
+  {
+    "event_name": "community_postDetail_blockAuthor_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-09-14"
+  },
+  {
+    "event_name": "cancel_attend_challege_view",
+    "event_type": "auto sync",
+    "created_date": "2023-09-14"
+  },
+  {
+    "event_name": "community_postDetail_reportPost_Click",
+    "event_type": "auto sync",
+    "created_date": "2023-09-14"
+  },
+  {
+    "event_name": "click_community_post_share",
+    "event_type": "auto sync",
+    "created_date": "2023-09-14"
   }
 ]
