@@ -10,11 +10,6 @@
     "created_date": "2023-06-14"
   },
   {
-    "event_name": "cancel_attend_challege_view",
-    "event_type": null,
-    "created_date": "2023-06-14"
-  },
-  {
     "event_name": "challenge_create_page_view",
     "event_type": "2023 같이해요",
     "created_date": "2023-06-14"
