@@ -145,18 +145,8 @@
     "created_date": "2023-06-14"
   },
   {
-    "event_name": "community_postDetail_blockAuthor_Click",
-    "event_type": null,
-    "created_date": "2023-06-14"
-  },
-  {
     "event_name": "community_postDetail_blockReply_Click",
     "event_type": null,
-    "created_date": "2023-06-14"
-  },
-  {
-    "event_name": "community_postDetail_reportPost_Click",
-    "event_type": "커뮤니티(사랑방)",
     "created_date": "2023-06-14"
   },
   {
@@ -483,11 +473,6 @@
     "event_name": "click_filter",
     "event_type": "auto sync",
     "created_date": "2023-07-11"
-  },
-  {
-    "event_name": "click_community_post_share",
-    "event_type": "auto sync",
-    "created_date": "2023-07-12"
   },
   {
     "event_name": "click_tab",
