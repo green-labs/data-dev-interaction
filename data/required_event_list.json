@@ -678,7 +678,7 @@
     "event_name": "click_community_post_share",
     "event_type": "auto sync",
     "created_date": "2023-09-14"
-  },  
+  },
   {
     "event_name": "farmdiary_export",
     "event_type": "auto sync",
@@ -723,5 +723,45 @@
     "event_name": "click_marketplace_banner",
     "event_type": "auto sync",
     "created_date": "2023-09-28"
+  },
+  {
+    "event_name": "click_cart_delete",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_cart_gotomarketplace",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_cart_itemoption_delete",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_pdp_gotocart",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_pdp_addtocart",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_marketplace_gotocart",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_cart_checkout",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "view_cart",
+    "event_type": "auto sync",
+    "created_date": "2023-10-11"
   }
 ]
