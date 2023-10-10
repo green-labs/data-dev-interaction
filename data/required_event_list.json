@@ -680,11 +680,6 @@
     "created_date": "2023-09-14"
   },
   {
-    "event_name": "click_one_more",
-    "event_type": "auto sync",
-    "created_date": "2023-09-16"
-  },
-  {
     "event_name": "click_no_more",
     "event_type": "auto sync",
     "created_date": "2023-09-16"
