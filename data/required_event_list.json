@@ -715,16 +715,6 @@
     "created_date": "2023-09-27"
   },
   {
-    "event_name": "exposure_marketplace_banner",
-    "event_type": "auto sync",
-    "created_date": "2023-09-28"
-  },
-  {
-    "event_name": "click_marketplace_banner",
-    "event_type": "auto sync",
-    "created_date": "2023-09-28"
-  },
-  {
     "event_name": "click_cart_delete",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
