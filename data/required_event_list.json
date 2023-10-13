@@ -753,5 +753,190 @@
     "event_name": "view_cart",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
+  },
+  {
+    "event_name": "click_diseasepest_all",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_post_detail",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "view_diseasepest",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_select_market",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_gotodetail",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_all_view",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_news_warning",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "impression_diseasepest_post",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_crop_init",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_edit_market",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_detail_share",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_user_feedback_cancel",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_region_init",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_crop_add",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_previous_price",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_post_more",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_prices_add_crop_del_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "view_farming_log",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_user_feedback",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_region_change",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_date",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_write",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_crop_add",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_add_market",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_farming_news",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "impression_pesticide_ranking_pesticide",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_weather_detail",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_user_feedback_submit",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_post_detail",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_auction_market_price_more",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "impression_farming_log_post",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_farming_log_post_user",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "view_user_feedback",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "view_diseasepest_description",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "click_diseasepest_post_write",
+    "event_type": "auto sync",
+    "created_date": "2023-10-14"
   }
 ]
