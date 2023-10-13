@@ -715,7 +715,7 @@
     "created_date": "2023-09-27"
   },
   {
-    "event_name": "click_cart_delete",
+    "event_name": "remove_from_cart",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
   },
@@ -725,7 +725,7 @@
     "created_date": "2023-10-11"
   },
   {
-    "event_name": "click_cart_itemoption_delete",
+    "event_name": "remove_from_cart",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
   },
@@ -735,7 +735,7 @@
     "created_date": "2023-10-11"
   },
   {
-    "event_name": "click_pdp_addtocart",
+    "event_name": "add_to_cart",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
   },
@@ -745,7 +745,7 @@
     "created_date": "2023-10-11"
   },
   {
-    "event_name": "click_cart_checkout",
+    "event_name": "begin_checkout",
     "event_type": "auto sync",
     "created_date": "2023-10-11"
   },
