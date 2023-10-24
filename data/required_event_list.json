@@ -938,5 +938,20 @@
     "event_name": "click_diseasepest_post_write",
     "event_type": "auto sync",
     "created_date": "2023-10-14"
+  },
+  {
+    "event_name": "impression_updown_quiz_participated",
+    "event_type": "auto sync",
+    "created_date": "2023-10-25"
+  },
+  {
+    "event_name": "impression_updown_quiz_banner",
+    "event_type": "auto sync",
+    "created_date": "2023-10-25"
+  },
+  {
+    "event_name": "view_updown_quiz_result",
+    "event_type": "auto sync",
+    "created_date": "2023-10-25"
   }
 ]
