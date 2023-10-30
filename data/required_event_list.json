@@ -953,5 +953,15 @@
     "event_name": "view_updown_quiz_result",
     "event_type": "auto sync",
     "created_date": "2023-10-25"
+  },
+  {
+    "event_name": "impression_attendance_alarm_modal",
+    "event_type": "auto sync",
+    "created_date": "2023-10-31"
+  },
+  {
+    "event_name": "click_attendance",
+    "event_type": "auto sync",
+    "created_date": "2023-10-31"
   }
 ]
