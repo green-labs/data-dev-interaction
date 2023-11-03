@@ -963,5 +963,70 @@
     "event_name": "click_attendance",
     "event_type": "auto sync",
     "created_date": "2023-10-31"
+  },
+  {
+    "event_name": "impression_voucher_drawing_point_history",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_start_drawing_voucher",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "impression_voucher_drawing_voucher_history",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_view_winning_result",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_mypoint",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "impression_voucher_main",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_allmenu_voucher",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "impression_voucher_main_attendance_fullpage_modal",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_voucher_main_modal_attendance",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_return_to_voucher_drawing_main",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "impression_voucher_drawing_result",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "impression_voucher_main_attendance_modal",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
+  },
+  {
+    "event_name": "click_voucher_history",
+    "event_type": "auto sync",
+    "created_date": "2023-11-04"
   }
 ]
