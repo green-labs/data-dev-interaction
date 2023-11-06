@@ -960,11 +960,6 @@
     "created_date": "2023-10-31"
   },
   {
-    "event_name": "click_attendance",
-    "event_type": "auto sync",
-    "created_date": "2023-10-31"
-  },
-  {
     "event_name": "impression_voucher_drawing_point_history",
     "event_type": "auto sync",
     "created_date": "2023-11-04"
