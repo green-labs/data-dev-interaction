@@ -1023,5 +1023,10 @@
     "event_name": "click_attendance_alarm_modal",
     "event_type": "auto sync",
     "created_date": "2023-11-07"
+  },
+  {
+    "event_name": "impression_carousel_market_products",
+    "event_type": "auto sync",
+    "created_date": "2023-11-08"
   }
 ]
