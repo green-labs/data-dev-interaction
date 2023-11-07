@@ -550,11 +550,6 @@
     "created_date": "2023-07-20"
   },
   {
-    "event_name": "click_marketplace_post_purchase",
-    "event_type": "auto sync",
-    "created_date": "2023-07-20"
-  },
-  {
     "event_name": "click_marketplace_post_share",
     "event_type": "auto sync",
     "created_date": "2023-07-20"
