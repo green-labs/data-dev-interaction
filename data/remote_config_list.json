@@ -1,1 +1,22 @@
 
+[
+  {
+    "variable_name": "storeUrliOS",
+    "variable_type": "remote_config",
+    "description": "",
+    "created_date": "2023-11-07"
+  },
+  {
+    "variable_name": "storeUrlAndroid",
+    "variable_type": "remote_config",
+    "description": "",
+    "created_date": "2023-11-07"
+  },
+  {
+    "variable_name": "hiding_seller_profile",
+    "variable_type": "remote_config",
+    "description": "장터 상품 목록에 노출되는 상품 정보에서 셀러 프로필 제외 여부",
+    "created_date": "2023-11-07"
+  },
+]
+
