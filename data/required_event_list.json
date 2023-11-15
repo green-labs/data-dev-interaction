@@ -1028,5 +1028,10 @@
     "event_name": "impression_carousel_market_products",
     "event_type": "auto sync",
     "created_date": "2023-11-08"
+  },
+  {
+    "event_name": "crm_group_buying_pdp_view",
+    "event_type": "auto sync",
+    "created_date": "2023-11-16"
   }
 ]
