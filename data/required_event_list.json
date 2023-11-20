@@ -1033,5 +1033,30 @@
     "event_name": "crm_group_buying_pdp_view",
     "event_type": "auto sync",
     "created_date": "2023-11-16"
+  },
+  {
+    "event_name": "impression_challenge_post_detail_picture",
+    "event_type": "auto sync",
+    "created_date": "2023-11-21"
+  },
+  {
+    "event_name": "click_link",
+    "event_type": "auto sync",
+    "created_date": "2023-11-21"
+  },
+  {
+    "event_name": "challenge_post_page_view",
+    "event_type": "auto sync",
+    "created_date": "2023-11-21"
+  },
+  {
+    "event_name": "swipe_home_widgets",
+    "event_type": "auto sync",
+    "created_date": "2023-11-21"
+  },
+  {
+    "event_name": "click_challenge_info",
+    "event_type": "auto sync",
+    "created_date": "2023-11-21"
   }
 ]
