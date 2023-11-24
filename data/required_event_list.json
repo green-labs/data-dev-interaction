@@ -1038,5 +1038,70 @@
     "event_name": "click_challenge_info",
     "event_type": "auto sync",
     "created_date": "2023-11-21"
+  },
+  {
+    "event_name": "click_input_farming_work",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_input_farming_memo",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_submit_farming_book",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_question_post",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "impression_carousel_new_question",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "impression_farming_book_category",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "impression_farming_log_add_crop",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_input_farming_book",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_allmenu_new_question_posts",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_submit_farming_work",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_submit_farming_memo",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "impression_post_question",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "impression_farming_log_add_pesticide",
+    "event_type": "auto sync",
+    "created_date": "2023-11-25"
   }
 ]
