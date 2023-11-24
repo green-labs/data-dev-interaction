@@ -674,11 +674,6 @@
     "event_type": "auto sync",
     "created_date": "2023-09-14"
   },
-  // {
-  //   "event_name": "farmdiary_export",
-  //   "event_type": "auto sync",
-  //   "created_date": "2023-09-27"
-  // },
   {
     "event_name": "farmdiary_detail_pesticide",
     "event_type": "auto sync",
