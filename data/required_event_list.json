@@ -680,27 +680,12 @@
     "created_date": "2023-09-27"
   },
   {
-    "event_name": "farmdiary_memo",
-    "event_type": "auto sync",
-    "created_date": "2023-09-27"
-  },
-  {
     "event_name": "farmdiary_weather",
     "event_type": "auto sync",
     "created_date": "2023-09-27"
   },
   {
     "event_name": "farmdiary_book_farmbook_tab",
-    "event_type": "auto sync",
-    "created_date": "2023-09-27"
-  },
-  {
-    "event_name": "farmbook-write",
-    "event_type": "auto sync",
-    "created_date": "2023-09-27"
-  },
-  {
-    "event_name": "farmdiary_task",
     "event_type": "auto sync",
     "created_date": "2023-09-27"
   },
