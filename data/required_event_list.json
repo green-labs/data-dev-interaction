@@ -1103,5 +1103,20 @@
     "event_name": "impression_farming_log_add_pesticide",
     "event_type": "auto sync",
     "created_date": "2023-11-25"
+  },
+  {
+    "event_name": "click_agriculture_posts",
+    "event_type": "auto sync",
+    "created_date": "2023-11-28"
+  },
+  {
+    "event_name": "click_agriculture_posts_picture",
+    "event_type": "auto sync",
+    "created_date": "2023-11-28"
+  },
+  {
+    "event_name": "impression_agriculture_posts",
+    "event_type": "auto sync",
+    "created_date": "2023-11-28"
   }
 ]
