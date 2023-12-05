@@ -1133,5 +1133,10 @@
     "event_name": "click_cancle_esacpe_order_payment",
     "event_type": "auto sync",
     "created_date": "2023-12-02"
+  },
+  {
+    "event_name": "click_drawing_voucher",
+    "event_type": "auto sync",
+    "created_date": "2023-12-06"
   }
 ]
