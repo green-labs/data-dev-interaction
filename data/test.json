@@ -95,11 +95,6 @@
     "created_date": "2023-06-15"
   },
   {
-    "event_name": "direct_deal_chatbutton",
-    "event_type": "auto sync",
-    "created_date": "2023-06-15"
-  },
-  {
     "event_name": "direct_deal_post_submit",
     "event_type": "auto sync",
     "created_date": "2023-06-15"

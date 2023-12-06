@@ -195,11 +195,6 @@
     "created_date": "2023-06-14"
   },
   {
-    "event_name": "direct_deal_chatbutton",
-    "event_type": "직거래장터 탭",
-    "created_date": "2023-06-14"
-  },
-  {
     "event_name": "direct_deal_page_click",
     "event_type": "직거래장터 탭",
     "created_date": "2023-06-14"
