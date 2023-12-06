@@ -1120,17 +1120,17 @@
     "created_date": "2023-11-28"
   },
   {
-    "event_name": "imp_esacpe_prevent_order_payment",
+    "event_name": "imp_escape_prevent_order_payment",
     "event_type": "auto sync",
     "created_date": "2023-12-02"
   },
   {
-    "event_name": "click_exit_esacpe_order_payment",
+    "event_name": "click_exit_escape_order_payment",
     "event_type": "auto sync",
     "created_date": "2023-12-02"
   },
   {
-    "event_name": "click_cancle_esacpe_order_payment",
+    "event_name": "click_cancle_escape_order_payment",
     "event_type": "auto sync",
     "created_date": "2023-12-02"
   },
