@@ -1130,7 +1130,7 @@
     "created_date": "2023-12-02"
   },
   {
-    "event_name": "click_cancle_escape_order_payment",
+    "event_name": "click_cancel_escape_order_payment",
     "event_type": "auto sync",
     "created_date": "2023-12-02"
   },
