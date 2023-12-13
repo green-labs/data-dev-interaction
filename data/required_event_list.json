@@ -1118,5 +1118,85 @@
     "event_name": "click_goto_marketplace",
     "event_type": "auto sync",
     "created_date": "2023-12-13"
+  },
+  {
+    "event_name": "imp_author_other_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_author_sale_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farms_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_author_other_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farm_application",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "imp_leading_farmer_section",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_author_other_posts_list",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farmer_all_view",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "imp_leading_farm_posts_picture",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farms_comment",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "imp_leading_farms_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "imp_leading_farms_comment",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_author_sale_posts_list",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "imp_author_sale_post",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farm_posts_more",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
+  },
+  {
+    "event_name": "click_leading_farm_posts_picture",
+    "event_type": "auto sync",
+    "created_date": "2023-12-14"
   }
 ]
