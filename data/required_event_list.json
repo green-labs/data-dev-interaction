@@ -1115,16 +1115,6 @@
     "created_date": "2023-12-13"
   },
   {
-    "event_name": "impression_post_relevant",
-    "event_type": "auto sync",
-    "created_date": "2023-12-13"
-  },
-  {
-    "event_name": "community_relatedpost_click",
-    "event_type": "auto sync",
-    "created_date": "2023-12-13"
-  },
-  {
     "event_name": "click_goto_marketplace",
     "event_type": "auto sync",
     "created_date": "2023-12-13"
