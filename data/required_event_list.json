@@ -925,32 +925,12 @@
     "created_date": "2023-11-04"
   },
   {
-    "event_name": "click_start_drawing_voucher",
-    "event_type": "auto sync",
-    "created_date": "2023-11-04"
-  },
-  {
     "event_name": "impression_voucher_drawing_voucher_history",
     "event_type": "auto sync",
     "created_date": "2023-11-04"
   },
   {
-    "event_name": "click_view_winning_result",
-    "event_type": "auto sync",
-    "created_date": "2023-11-04"
-  },
-  {
     "event_name": "click_mypoint",
-    "event_type": "auto sync",
-    "created_date": "2023-11-04"
-  },
-  {
-    "event_name": "impression_voucher_main",
-    "event_type": "auto sync",
-    "created_date": "2023-11-04"
-  },
-  {
-    "event_name": "click_voucher_main_modal_attendance",
     "event_type": "auto sync",
     "created_date": "2023-11-04"
   },
@@ -961,11 +941,6 @@
   },
   {
     "event_name": "impression_voucher_main_attendance_modal",
-    "event_type": "auto sync",
-    "created_date": "2023-11-04"
-  },
-  {
-    "event_name": "click_voucher_history",
     "event_type": "auto sync",
     "created_date": "2023-11-04"
   },
@@ -1088,11 +1063,6 @@
     "event_name": "impression_agriculture_posts",
     "event_type": "auto sync",
     "created_date": "2023-11-28"
-  },
-  {
-    "event_name": "click_drawing_voucher",
-    "event_type": "auto sync",
-    "created_date": "2023-12-06"
   },
   {
     "event_name": "click_cancel_escape_order_payment",
