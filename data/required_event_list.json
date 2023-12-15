@@ -1208,5 +1208,15 @@
     "event_name": "click_voucher_main_modal_attendance",
     "event_type": "auto sync",
     "created_date": "2023-12-15"
+  },
+  {
+    "event_name": "imp_reputation_score_modal",
+    "event_type": "auto sync",
+    "created_date": "2023-12-16"
+  },
+  {
+    "event_name": "click_reputation_score",
+    "event_type": "auto sync",
+    "created_date": "2023-12-16"
   }
 ]
