@@ -1188,5 +1188,120 @@
     "event_name": "click_reputation_score",
     "event_type": "auto sync",
     "created_date": "2023-12-16"
+  },
+  {
+    "event_name": "click_goto_winning_history",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_giftcard_draw_result",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_giftcard_draw_execution",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "giftcard_draw_view",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_goto_winner_list",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_collect_points",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_customer_service",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_giftcard_draw",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "execute_giftcard_draw",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "giftcard_detail_view",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_giftcard_winning",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_allmenu_point",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_need_point_toast",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_gitftcard_draw",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "submit_giftcard_win_comment",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_giftcard_winner",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_goto_point_guide",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_giftcard_detail",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_goto_draw",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_goto_check_attendance",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "click_draw_retry",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_need_point_bottom_sheet",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "impression_giftcard",
+    "event_type": "auto sync",
+    "created_date": "2023-12-19"
   }
 ]
