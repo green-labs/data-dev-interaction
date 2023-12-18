@@ -1170,42 +1170,12 @@
     "created_date": "2023-12-14"
   },
   {
-    "event_name": "click_view_winning_result",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
-    "event_name": "click_start_drawing_voucher",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
-    "event_name": "click_voucher_history",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
     "event_name": "crm_first_buying_plp_view",
     "event_type": "auto sync",
     "created_date": "2023-12-15"
   },
   {
-    "event_name": "impression_voucher_main",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
-    "event_name": "click_drawing_voucher",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
     "event_name": "click_first_buying_banner",
-    "event_type": "auto sync",
-    "created_date": "2023-12-15"
-  },
-  {
-    "event_name": "click_voucher_main_modal_attendance",
     "event_type": "auto sync",
     "created_date": "2023-12-15"
   },
