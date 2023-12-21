@@ -1303,5 +1303,20 @@
     "event_name": "impression_giftcard",
     "event_type": "auto sync",
     "created_date": "2023-12-19"
+  },
+  {
+    "event_name": "explore_recommended_keyword_click",
+    "event_type": "auto sync",
+    "created_date": "2023-12-22"
+  },
+  {
+    "event_name": "explore_popular_keyword_click",
+    "event_type": "auto sync",
+    "created_date": "2023-12-22"
+  },
+  {
+    "event_name": "explore_related_keyword_click",
+    "event_type": "auto sync",
+    "created_date": "2023-12-22"
   }
 ]
