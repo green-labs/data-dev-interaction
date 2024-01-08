@@ -1005,11 +1005,6 @@
     "created_date": "2023-11-25"
   },
   {
-    "event_name": "impression_carousel_new_question",
-    "event_type": "auto sync",
-    "created_date": "2023-11-25"
-  },
-  {
     "event_name": "impression_farming_book_category",
     "event_type": "auto sync",
     "created_date": "2023-11-25"
