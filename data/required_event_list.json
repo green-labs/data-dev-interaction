@@ -1343,10 +1343,5 @@
     "event_name": "click_option_bottomsheet_button",
     "event_type": "auto sync",
     "created_date": "2024-01-06"
-  },
-  {
-    "event_name": "impression_carousel_new_question",
-    "event_type": "auto sync",
-    "created_date": "2024-01-09"
   }
 ]
