@@ -1343,5 +1343,85 @@
     "event_name": "click_option_bottomsheet_button",
     "event_type": "auto sync",
     "created_date": "2024-01-06"
+  },
+  {
+    "event_name": "click_response_detail_prompt",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_question_posts_more",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_select_variety",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_question_posts_picture",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_edit_all_crops",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_edit_specific_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "submit_location_info",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_crop_confirm_selection",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "imp_question_posts_widget",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_variety_confirm_selection",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_add_my_crops",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_select_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_currently_cultivating_response",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_crop_search_box",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_unknown_variety_button",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
+  },
+  {
+    "event_name": "click_add_crop_variety",
+    "event_type": "auto sync",
+    "created_date": "2024-01-13"
   }
 ]
