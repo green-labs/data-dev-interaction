@@ -495,11 +495,6 @@
     "created_date": "2023-07-18"
   },
   {
-    "event_name": "click_feedback",
-    "event_type": "auto sync",
-    "created_date": "2023-07-18"
-  },
-  {
     "event_name": "click_pesticide_like",
     "event_type": "auto sync",
     "created_date": "2023-07-18"
