@@ -1428,5 +1428,25 @@
     "event_name": "escape_address_update_screen",
     "event_type": "auto sync",
     "created_date": "2024-01-19"
+  },
+  {
+    "event_name": "click_market_price",
+    "event_type": "auto sync",
+    "created_date": "2024-01-24"
+  },
+  {
+    "event_name": "click_feedback",
+    "event_type": "auto sync",
+    "created_date": "2024-01-24"
+  },
+  {
+    "event_name": "click_goto_explore_market_prices",
+    "event_type": "auto sync",
+    "created_date": "2024-01-24"
+  },
+  {
+    "event_name": "click_goto_realtime_market_prices",
+    "event_type": "auto sync",
+    "created_date": "2024-01-24"
   }
 ]
