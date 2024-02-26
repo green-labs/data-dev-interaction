@@ -1488,5 +1488,10 @@
     "event_name": "impression_carousel_new_question",
     "event_type": "auto sync",
     "created_date": "2024-02-24"
+  },
+  {
+    "event_name": "click_payment_with_instant_virtual_account",
+    "event_type": "auto sync",
+    "created_date": "2024-02-27"
   }
 ]
