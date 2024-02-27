@@ -1445,21 +1445,6 @@
     "created_date": "2024-01-27"
   },
   {
-    "event_name": "click_one_more",
-    "event_type": "auto sync",
-    "created_date": "2024-02-03"
-  },
-  {
-    "event_name": "click_goto_game_yut_2024_new_year",
-    "event_type": "auto sync",
-    "created_date": "2024-02-03"
-  },
-  {
-    "event_name": "click_share_nudge",
-    "event_type": "auto sync",
-    "created_date": "2024-02-03"
-  },
-  {
     "event_name": "submit_add_cultivated_crops",
     "event_type": "auto sync",
     "created_date": "2024-02-16"
