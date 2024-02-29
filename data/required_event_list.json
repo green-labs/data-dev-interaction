@@ -1478,5 +1478,20 @@
     "event_name": "click_payment_with_instant_virtual_account",
     "event_type": "auto sync",
     "created_date": "2024-02-27"
+  },
+  {
+    "event_name": "click_category_filter",
+    "event_type": "auto sync",
+    "created_date": "2024-03-01"
+  },
+  {
+    "event_name": "click_all_category_filter",
+    "event_type": "auto sync",
+    "created_date": "2024-03-01"
+  },
+  {
+    "event_name": "click_home_category_menu",
+    "event_type": "auto sync",
+    "created_date": "2024-03-01"
   }
 ]
