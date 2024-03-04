@@ -1445,31 +1445,6 @@
     "created_date": "2024-01-27"
   },
   {
-    "event_name": "submit_add_cultivated_crops",
-    "event_type": "auto sync",
-    "created_date": "2024-02-16"
-  },
-  {
-    "event_name": "impression_cultivated_crops_add_crop",
-    "event_type": "auto sync",
-    "created_date": "2024-02-16"
-  },
-  {
-    "event_name": "submit_modify_cultivated_crops",
-    "event_type": "auto sync",
-    "created_date": "2024-02-16"
-  },
-  {
-    "event_name": "impression_widget_home",
-    "event_type": "auto sync",
-    "created_date": "2024-02-16"
-  },
-  {
-    "event_name": "search_cultivated_crop",
-    "event_type": "auto sync",
-    "created_date": "2024-02-16"
-  },
-  {
     "event_name": "impression_carousel_new_question",
     "event_type": "auto sync",
     "created_date": "2024-02-24"
