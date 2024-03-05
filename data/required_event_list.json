@@ -1468,5 +1468,25 @@
     "event_name": "click_home_category_menu",
     "event_type": "auto sync",
     "created_date": "2024-03-01"
+  },
+  {
+    "event_name": "click_disable_add_cart_button",
+    "event_type": "auto sync",
+    "created_date": "2024-03-06"
+  },
+  {
+    "event_name": "click_disable_confirm_button",
+    "event_type": "auto sync",
+    "created_date": "2024-03-06"
+  },
+  {
+    "event_name": "click_plus_quantity_button",
+    "event_type": "auto sync",
+    "created_date": "2024-03-06"
+  },
+  {
+    "event_name": "click_minus_quantity_button",
+    "event_type": "auto sync",
+    "created_date": "2024-03-06"
   }
 ]
