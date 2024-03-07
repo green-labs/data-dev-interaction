@@ -1488,5 +1488,65 @@
     "event_name": "click_minus_quantity_button",
     "event_type": "auto sync",
     "created_date": "2024-03-06"
+  },
+  {
+    "event_name": "impression_farming_log_posts",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "close_crop_list",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "add_new_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "click_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "impression_farm_work",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "click_back_button",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "show_farm_work_list",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "impression_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "click_selection_completed",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "impression_home_widget",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "submit_farm_work_post",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "change_crop",
+    "event_type": "auto sync",
+    "created_date": "2024-03-08"
   }
 ]
