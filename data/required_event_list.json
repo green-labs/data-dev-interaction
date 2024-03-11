@@ -1548,5 +1548,10 @@
     "event_name": "change_crop",
     "event_type": "auto sync",
     "created_date": "2024-03-08"
+  },
+  {
+    "event_name": "click_attendance",
+    "event_type": "auto sync",
+    "created_date": "2024-03-12"
   }
 ]
