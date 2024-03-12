@@ -70,11 +70,6 @@
     "created_date": "2023-06-14"
   },
   {
-    "event_name": "click_market",
-    "event_type": "2023 삭제 필요",
-    "created_date": "2023-06-14"
-  },
-  {
     "event_name": "click_order",
     "event_type": "2023 주문결제",
     "created_date": "2023-06-14"
@@ -252,11 +247,6 @@
   {
     "event_name": "go_to_post_list_button_click",
     "event_type": "채팅",
-    "created_date": "2023-06-14"
-  },
-  {
-    "event_name": "impression_market",
-    "event_type": "2023 위치별",
     "created_date": "2023-06-14"
   },
   {
@@ -593,11 +583,6 @@
     "event_name": "impression_cultivation_nudge",
     "event_type": "auto sync",
     "created_date": "2023-08-25"
-  },
-  {
-    "event_name": "click_marketplace_nudge",
-    "event_type": "auto sync",
-    "created_date": "2023-08-29"
   },
   {
     "event_name": "click_writing_pesticide_product_review",
