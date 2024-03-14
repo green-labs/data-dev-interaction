@@ -1538,5 +1538,25 @@
     "event_name": "click_attendance",
     "event_type": "auto sync",
     "created_date": "2024-03-12"
+  },
+  {
+    "event_name": "search_request",
+    "event_type": "auto sync",
+    "created_date": "2024-03-15"
+  },
+  {
+    "event_name": "search_tab_switch_marketplace",
+    "event_type": "auto sync",
+    "created_date": "2024-03-15"
+  },
+  {
+    "event_name": "search_marketplace_response",
+    "event_type": "auto sync",
+    "created_date": "2024-03-15"
+  },
+  {
+    "event_name": "click_search_filter",
+    "event_type": "auto sync",
+    "created_date": "2024-03-15"
   }
 ]
