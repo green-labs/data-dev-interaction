@@ -1558,5 +1558,10 @@
     "event_name": "click_search_filter",
     "event_type": "auto sync",
     "created_date": "2024-03-15"
+  },
+  {
+    "event_name": "click_home_special_category_menu",
+    "event_type": "auto sync",
+    "created_date": "2024-03-16"
   }
 ]
