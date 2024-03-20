@@ -440,19 +440,9 @@
     "created_date": "2023-07-01"
   },
   {
-    "event_name": "click_widget",
-    "event_type": "auto sync",
-    "created_date": "2023-07-11"
-  },
-  {
     "event_name": "click_filter",
     "event_type": "auto sync",
     "created_date": "2023-07-11"
-  },
-  {
-    "event_name": "click_tab",
-    "event_type": "auto sync",
-    "created_date": "2023-07-12"
   },
   {
     "event_name": "impression_area_pesticide_ranking",
