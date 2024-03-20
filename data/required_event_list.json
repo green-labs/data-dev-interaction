@@ -1553,5 +1553,15 @@
     "event_name": "click_home_special_category_menu",
     "event_type": "auto sync",
     "created_date": "2024-03-16"
+  },
+  {
+    "event_name": "click_widget",
+    "event_type": "auto sync",
+    "created_date": "2024-03-21"
+  },
+  {
+    "event_name": "click_tab",
+    "event_type": "auto sync",
+    "created_date": "2024-03-21"
   }
 ]
